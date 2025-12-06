@@ -3,7 +3,7 @@ TATA: Data Visualization Project (Power BI)
 This project explores sales performance for TATA using interactive Power BI visualizations.
 The analysis focuses on revenue trends, high-performing regions, top customers, and quantity distribution across countries, designed to demonstrate actionable insight-driven reporting.
 
-📊 Project Overview
+Project Overview
 This dashboard provides a structured view of:
 
 1. Monthly Revenue Trend
